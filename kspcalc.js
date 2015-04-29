@@ -142,7 +142,7 @@ var PACKS = [
 			{"name":"TT-70 Radial Decoupler","type":TYPES.DECOUPLER,"size":-1,"cost":700,"mass":0.05,"ejection_force":260,"last":true,"radial":true},
 			
 			//Branches
-			{"name":"TVR-1180C Mk1 Stack Tri-Coupler","type":TYPES.BRANCH,"size":"Mk1","cost":680,"mass":0.15,"sizeA":"Mk1","sizeB":1,"multiplier":3}
+			{"name":"TVR-1180C Mk1 Stack Tri-Coupler","type":TYPES.BRANCH,"size":"Mk1","cost":680,"mass":0.15,"sizeA":"Mk1","sizeB":1,"multiplier":3},
 			{"name":"TVR-200 Stack Bi-Coupler","type":TYPES.BRANCH,"size":1,"cost":400,"mass":0.1,"sizeA":1,"sizeB":1,"multiplier":2},
 			{"name":"TVR-200L Stack Bi-Adapter","type":TYPES.BRANCH,"size":2,"cost":400,"mass":0.1,"sizeA":2,"sizeB":1,"multiplier":2},
 			{"name":"TVR-2160C Mk2 Stack Quad-Coupler","type":TYPES.BRANCH,"size":"Mk2","cost":2000,"mass":0.175,"sizeA":"Mk2","sizeB":1,"multiplier":4},
@@ -150,7 +150,7 @@ var PACKS = [
 			{"name":"TVR-400L Stack Quad-Adapter","type":TYPES.BRANCH,"size":2,"cost":800,"mass":0.2,"sizeA":2,"sizeB":1,"multiplier":4},
 			{"name":"TVR-2160C Mk2 Stack Quad-Coupler","type":TYPES.BRANCH,"size":1,"cost":2000,"mass":0.175,"sizeA":1,"sizeB":1,"multiplier":4},
 			{"name":"TVR-1180C Mk1 Stack Tri-Coupler","type":TYPES.BRANCH,"size":1,"cost":680,"mass":0.15,"sizeA":1,"sizeB":1,"multiplier":3},
-			{"name":"Mk2 Bicoupler","type":TYPES.BRANCH,"size":"Mk2","cost":860,"mass":0.29,"mass_fuel":2,"sizeA":"Mk2","sizeB":1,"multiplier":2},
+			{"name":"Mk2 Bicoupler","type":TYPES.BRANCH,"size":"Mk2","cost":860,"mass":0.29,"mass_fuel":2,"sizeA":"Mk2","sizeB":1,"multiplier":2}
 		]
 	},
 	{
